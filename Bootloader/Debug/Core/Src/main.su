@@ -1,7 +1,8 @@
-../Core/Src/main.c:61:6:JumpToAddress	32	static,ignoring_inline_asm
-../Core/Src/main.c:78:6:JumpToApplication	8	static
-../Core/Src/main.c:87:5:main	16	static
-../Core/Src/main.c:136:6:SystemClock_Config	88	static
-../Core/Src/main.c:177:13:MX_USART2_UART_Init	8	static
-../Core/Src/main.c:225:13:MX_GPIO_Init	48	static
-../Core/Src/main.c:258:6:Error_Handler	8	static,ignoring_inline_asm
+../Core/Src/main.c:64:6:JumpToAddress	32	static,ignoring_inline_asm
+../Core/Src/main.c:81:6:JumpToApplication	16	static
+../Core/Src/main.c:90:5:main	16	static
+../Core/Src/main.c:151:6:SystemClock_Config	88	static
+../Core/Src/main.c:198:13:MX_LPUART1_UART_Init	8	static
+../Core/Src/main.c:246:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:294:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:334:6:Error_Handler	8	static,ignoring_inline_asm
